@@ -1,3 +1,10 @@
+## 👋 Hi, I'm learning Python
+
+I share beginner-friendly Python projects and scripts here.
+
+🔹 Beginner Python Scripts Bundle  
+👉 https://payhip.com/b/Vrxbg
+
 # 🐍 Beginner Python Scripts (Practice Projects)
 
 This repository contains **simple Python scripts** designed for **beginners** who want to understand Python basics through practice.
@@ -55,3 +62,6 @@ A fun guessing game where the user guesses a random number.
 
 ```bash
 python filename.py
+
+
+
